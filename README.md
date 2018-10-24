@@ -1,3 +1,5 @@
+![](gmail-snooze-header.jpg)
+
 ### What it was
 
 Back in 2014, Google released a new email tool called [Inbox](https://www.google.com/inbox). It was so awesome. It introduced email bundling,built-in tasks/reminders, and most of all, official support for snoozing messages. 
